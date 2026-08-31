@@ -4,6 +4,8 @@
 
 [体验在线 Demo](https://violetloveai.github.io/gongxingji-demo/)
 
+[支持与隐私说明](https://violetloveai.github.io/gongxingji-demo/support/)
+
 ![共星纪在线 Demo 首屏](./preview.png)
 
 ## 可以体验什么
@@ -38,6 +40,7 @@ python3 -m http.server 4180 --bind 127.0.0.1
 ├── index.html      # 静态入口
 ├── assets/         # 已构建的 JavaScript 与 CSS
 ├── gx/             # 角色、场景和配音资源
+├── support/        # App Store 支持与隐私站点
 ├── og.webp         # 分享封面
 └── preview.png     # 实际运行截图
 ```
